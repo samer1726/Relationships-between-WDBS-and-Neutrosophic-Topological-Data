@@ -1,6 +1,6 @@
 # Relationships-between-WDBS-and-Neutrosophic-Topological-Data
 
-**File 1 (Women Breast Cancer Data)**
+# **File 1 (Women Breast Cancer Data)**
 
 This dataset focuses on different measurements associated with both benign as well as malignant tumors and includes medical diagnostic information for patients with breast cancer. A number of parameters, including radius, surface texture, boundaries, area, softness, and other statistical metrics that are essential for examining tumor characteristics, are included in the file. Each entry represents the physical characteristics of a tumor and is categorized into two categories: benign or malignant. This dataset is frequently used in predictive modeling and machine learning to differentiate between tumors that are benign and malignant based on their characteristics.
 
@@ -9,7 +9,7 @@ Please download the Breast Cancer Wisconsin (Diagnostic) Data Set via its datase
 
 [https://w.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data/data](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data/data).
 
-**File 2 (Neutrosophic Topological Data)**
+# File 2 (Neutrosophic Topological Data)**
 
 This dataset has been converted into neutrosophic topological data, which is a complicated structure used for imprecise and uncertain data analysis. When confusing or insufficient information causes traditional statistical models to fail, the topological framework utilized on the data enables more precise treatment. For improving decision-making processes in settings with ambiguous or inconsistent data, such as complicated systems analysis or medical diagnostics, this transformation to neutrosophic logic is essential.
 
