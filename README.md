@@ -18,5 +18,5 @@ This dataset has been converted into neutrosophic topological data, which is a c
 # Dataset
 Please download the Breast Cancer Wisconsin (Diagnostic) Data Set via its dataset webpage.
 
-[https://sites.usm.edu/bli/SceneIBR2019/](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data/data).
+[https://w.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data/data](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data/data).
 
