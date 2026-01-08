@@ -15,7 +15,7 @@ This dataset has been converted into neutrosophic topological data, which is a c
 **3.	Handling Uncertainty**: Because clinical data is not always flawless, the breast cancer dataset may occasionally contain uncertain or missing values. By enabling a visualization of data that might not be entirely accurate or may contain contradicting data, the neutrosophic logic resolves this uncertainty and may aid in improving the analysis of malignant versus non-cancerous states.
 
 
-#Dataset
+# Dataset
 Please download the Breast Cancer Wisconsin (Diagnostic) Data Set via its dataset webpage.
 
 [https://sites.usm.edu/bli/SceneIBR2019/](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data/data).
