@@ -9,7 +9,7 @@ Please download the Breast Cancer Wisconsin (Diagnostic) Data Set via its datase
 
 [https://w.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data/data](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data/data).
 
-# File 2 (Neutrosophic Topological Data)**
+# **File 2 (Neutrosophic Topological Data)**
 
 This dataset has been converted into neutrosophic topological data, which is a complicated structure used for imprecise and uncertain data analysis. When confusing or insufficient information causes traditional statistical models to fail, the topological framework utilized on the data enables more precise treatment. For improving decision-making processes in settings with ambiguous or inconsistent data, such as complicated systems analysis or medical diagnostics, this transformation to neutrosophic logic is essential.
 
